@@ -3,11 +3,8 @@
 
 ## subtitle
 
-  - 첫 번째 : hi
-  - 두 번째 : welcome
-
-test
-
+  - 첫 번째 : first
+  - 두 번째 : second
 
 
 
