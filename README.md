@@ -7,7 +7,7 @@ Sumi-Lee의 연습용 리퍼지토리 입니다.
   - 첫 번째 : python
   - 두 번째 : R
 
-![bigdata](https://images.app.goo.gl/zCk8P9taoCbxRQk96)
+![bigdata](https://images.app.goo.gl/zCk8P9taoCbxRQk96.png)
 
 
 
